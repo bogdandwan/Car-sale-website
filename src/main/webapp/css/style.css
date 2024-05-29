@@ -1,0 +1,101 @@
+#site-header {
+	text-align:center;
+	color:grey;
+	text-decoration:underline;
+	background-color:whitesmoke;
+	padding:10px;
+	border:1pxsolidgrey;
+}
+
+#logo {
+	max-width:100%;
+	max-height:100%;
+}
+
+#social {
+	margin-top:25px;
+	text-align:center;
+}
+
+#social > a {
+	font-size:25px;
+}
+
+.fa-facebook-square:hover {
+	color:#1877f2!important;
+}
+
+.fa-instagram:hover {
+	color:#f5194d !important;
+}
+
+.fa-twitter-square:hover {
+	color:#1d9bf0 !important;
+}
+
+.fa-trash:hover {
+	color:red;
+	cursor:pointer;
+}
+
+#add-new-button {
+	vertical-align:middle;
+}
+
+#header-row {
+	border:10px solid whitesmoke;
+	padding:5px;
+}
+
+#add-new-column {
+	text-align:center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}.car-img {
+	max-width:100%;
+	max-height:100%;
+}
+
+.car-sale {
+	margin-top:20px !important;
+	border:5px solid whitesmoke;
+	padding:5px;
+}
+
+.car-name-price {
+	color:grey;
+	margin-left:5%;
+}
+
+.car-info {
+	color:grey;
+	margin-left:5%;
+	margin-top:7% !important;
+	font-size:14px;
+	margin:auto;
+	line-height:0.1;
+}
+
+footer {
+	margin-top:50px;
+}
+
+#input-form { 
+	margin-top:50px;
+	text-align:center;
+}
+
+#add-new-car {
+	border:2px solid whitesmoke;
+}
+
+#back-to-top {
+	font-size:20px;
+	color:lightskyblue;
+	cursor:pointer;
+}
+
+#back-to-top:hover {
+	color:grey;
+}
